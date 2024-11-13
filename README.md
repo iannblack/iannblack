@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/iannnblack/" target="_blank">Ian Black</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-## 👋 Introduction
+## 👋 About me
 
 <p align="justify">
   I am a Business Administration student with experience in software development. Throughout my education, I have acquired skills in project management, financial analysis, strategic planning and process optimization. My studies have provided me with a solid foundation in management techniques, leadership and business decision making. I specialize in Python and JavaScript. I have experience in other technologies such as C#, Java, and frameworks like React. In addition, I have knowledge in agile methodologies for project management. This combination of technical and management skills allows me to face business challenges with an integral vision, applying my competences to contribute to the success and efficiency of the company in a professional environment.
