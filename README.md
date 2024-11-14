@@ -4,9 +4,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ## 🎯 Professional Summary
 
 <p align="justify">
-  I am a software developer with strong expertise in Python and JavaScript, and a solid background in other technologies like C#, Java, and frameworks such as React. I specialize in building scalable solutions and optimizing development processes. In addition to my programming skills, I am well-versed in agile methodologies, allowing me to manage projects efficiently and meet business objectives.
+  I am a software developer with strong expertise in Python and JavaScript, and a solid background in other technologies like C#, Java, and frameworks such as React. I specialize in building scalable solutions and optimizing development processes. In addition to my programming skills, I am well-versed in agile methodologies, allowing me to manage projects efficiently and meet business objectives.</p>
 
-Alongside my technical expertise, I am currently studying Business Administration, where I have gained knowledge in project management, financial analysis, strategic planning, and process optimization. My academic background in management has equipped me with the tools to make informed business decisions and lead teams effectively. This combination of technical and managerial skills allows me to approach challenges from a comprehensive perspective, contributing to the success and growth of the company.
+ <p align="justify"> Alongside my technical expertise, I am currently studying Business Administration, where I have gained knowledge in project management, financial analysis, strategic planning, and process optimization. My academic background in management has equipped me with the tools to make informed business decisions and lead teams effectively. This combination of technical and managerial skills allows me to approach challenges from a comprehensive perspective, contributing to the success and growth of the company.
 </p>
 
 ## 📫 Contact Me
