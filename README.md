@@ -40,11 +40,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </table>
 
 ## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/> 
 
 ## Technologies I Use
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
 
 ## 🏆 Certifications
 
@@ -55,18 +54,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 - **[Machine Learning with Python Certificate](https://www.freecodecamp.org/certification/iannnblack/machine-learning-with-python-v7)**  
   *Issued by freeCodeCamp, October 2024*  
   Credential ID: iannnblack-mlwp
-  
-- **[Building Language Models on AWS Certificate](https://www.aws.training/)**  
-  *Issued by Amazon Web Services (AWS), November 2024*  
-  Credential ID: E-VP58DQ
-
-- **[SaaS Business Transformation Certificate](https://www.aws.training/)**  
-  *Issued by Amazon Web Services (AWS), November 2024*  
-  Credential ID: E-N05EQV
-
-- **[PostgreSQL Security Certificate](https://www.aws.training/)**  
-  *Issued by Amazon Web Services (AWS), November 2024*  
-  Credential ID: E-19Q7P1
 
 - **[Cloud Computing Certificate](https://skillshop.exceedlms.com/student/award/nFVS9y8AmAA1AbKNKdoEwqUQ)**  
   *Issued by Google, November 2024*  
@@ -75,6 +62,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 - **[Fundamentals of Digital Marketing](https://skillshop.exceedlms.com/student/award/3T9Tmp6ZZwJMtGTmgqySjEzB)**  
   *Issued by Google, August 2024*  
   Credential ID: 176398903
+
+More certificates at: [LinkedIn Certifications](https://www.linkedin.com/in/iannnblack/details/certifications/)
 
 ## 📚 Future Learning Goals
 
