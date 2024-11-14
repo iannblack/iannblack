@@ -4,7 +4,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ## 🎯 Professional Summary
 
 <p align="justify">
-  I am a Business Administration student with experience in software development. Throughout my education, I have acquired skills in project management, financial analysis, strategic planning and process optimization. My studies have provided me with a solid foundation in management techniques, leadership and business decision making. I specialize in Python and JavaScript. I have experience in other technologies such as C#, Java, and frameworks like React. In addition, I have knowledge in agile methodologies for project management. This combination of technical and management skills allows me to face business challenges with an integral vision, applying my competences to contribute to the success and efficiency of the company in a professional environment.
+  I am a software developer with strong expertise in Python and JavaScript, and a solid background in other technologies like C#, Java, and frameworks such as React. I specialize in building scalable solutions and optimizing development processes. In addition to my programming skills, I am well-versed in agile methodologies, allowing me to manage projects efficiently and meet business objectives.
+
+Alongside my technical expertise, I am currently studying Business Administration, where I have gained knowledge in project management, financial analysis, strategic planning, and process optimization. My academic background in management has equipped me with the tools to make informed business decisions and lead teams effectively. This combination of technical and managerial skills allows me to approach challenges from a comprehensive perspective, contributing to the success and growth of the company.
 </p>
 
 ## 📫 Contact Me
