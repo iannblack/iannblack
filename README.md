@@ -69,10 +69,7 @@ More certificates at: [LinkedIn Certifications](https://www.linkedin.com/in/iann
 
 As part of my continuous growth, I'm currently focused on expanding my expertise in the following areas:
 
-- **Artificial Intelligence & Machine Learning**: Exploring AI concepts and ML algorithms to enhance problem-solving capabilities and data-driven decision-making.
 - **Cloud Technologies**: Deepening my understanding of cloud architectures, containerization (Docker, Kubernetes), and serverless computing to develop scalable and resilient applications.
-- **Advanced Front-End Development**: Mastering frameworks like Vue.js and Angular to diversify my skills in modern front-end frameworks.
-- **Cybersecurity**: Gaining hands-on experience with security practices, penetration testing, and building secure applications.
 - **Data Science**: Enhancing my knowledge of data analysis, data visualization, and working with big data tools (such as Hadoop and Spark) to extract insights and drive decisions.
 
 I am constantly seeking new challenges and learning opportunities that will help me stay up-to-date with emerging technologies and apply them to create innovative solutions.
