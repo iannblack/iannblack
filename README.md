@@ -25,7 +25,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <table>
   <tr>
     <td width="80">
-      <img src="https://cphorizon.com/CPHorizonLogo.png" width="70"/>
+      <img src="https://media.discordapp.net/attachments/892073608850063395/1357027168479088650/CPHlogo.png?ex=67eeb589&is=67ed6409&hm=8bac2ba78674816dbdbd149319947e4d2e6fff9125681a44892cdefc33718b7d&" width="70"/>
     </td>
     <td>
       <h3>Club Penguin Horizon</h3>
@@ -34,7 +34,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
         I created a massively multiplayer online game called <strong>Club Penguin Horizon</strong>, in which I was in charge of managing and developing the necessary software. I was helped by friends, designers, community managers, event organizers, moderators, and a large community that reached 1,000 users connected at the same time.
       </p>
       <p><strong>Technologies utilized:</strong> JavaScript, MySQL, Nginx, Socket.IO, Phaser Editor, Physics Editor, Texture Packer</p>
-      <p><strong>Game Link:</strong> <a href="https://cphorizon.com">https://cphorizon.com</a></p>
     </td>
   </tr>
 </table>
