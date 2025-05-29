@@ -25,7 +25,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <table>
   <tr>
     <td width="80">
-      <img src="https://media.discordapp.net/attachments/892073608850063395/1357027168479088650/CPHlogo.png?ex=67eeb589&is=67ed6409&hm=8bac2ba78674816dbdbd149319947e4d2e6fff9125681a44892cdefc33718b7d&" width="70"/>
+      <img src="[https://media.discordapp.net/attachments/892073608850063395/1357027168479088650/CPHlogo.png?ex=67eeb589&is=67ed6409&hm=8bac2ba78674816dbdbd149319947e4d2e6fff9125681a44892cdefc33718b7d&](https://media.discordapp.net/attachments/1080906759281053757/1377685387476209865/CPHlogo.png?ex=6839dd00&is=68388b80&hm=0ceb2a37c0952bac04234adb9ea77220d1eafe22cdd35302cfae10745a18c96d&=&format=webp&quality=lossless)" width="70"/>
     </td>
     <td>
       <h3>Club Penguin Horizon</h3>
