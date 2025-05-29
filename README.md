@@ -25,7 +25,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <table>
   <tr>
     <td width="80">
-      <img src="https://media.discordapp.net/attachments/892073608850063395/1357027168479088650/CPHlogo.png?ex=67eeb589&is=67ed6409&hm=8bac2ba78674816dbdbd149319947e4d2e6fff9125681a44892cdefc33718b7d&" width="70"/>
+      <img src="https://americadelsurtours.store/CPH/CPHlogo.png" width="70"/>
     </td>
     <td>
       <h3>Club Penguin Horizon</h3>
