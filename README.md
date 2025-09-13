@@ -25,7 +25,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <table>
   <tr>
     <td width="80">
-      <img src="https://americadelsurtours.store/CPH/CPHlogo.png" width="70"/>
+      <img src="https://1000marcas.net/wp-content/uploads/2021/05/Club-Penguin-Logo.png" width="70"/>
     </td>
     <td>
       <h3>Club Penguin Horizon</h3>
