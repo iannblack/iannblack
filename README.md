@@ -74,4 +74,4 @@ As part of my continuous growth, I'm currently focused on expanding my expertise
 I am constantly seeking new challenges and learning opportunities that will help me stay up-to-date with emerging technologies and apply them to create innovative solutions.
 
 ### 🚀 Quick Stats
-![ian's github stats](https://github-readme-stats.vercel.app/api?username=iannblack&show_icons=true&theme=dark)
+![ian's github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iannblack&theme=dark)
